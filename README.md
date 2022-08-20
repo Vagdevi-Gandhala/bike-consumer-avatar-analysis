@@ -17,5 +17,5 @@ To create the necessary data model for doing analysis and fulfilling the busines
 
 
 # Dashboard
-[Click this link to to open the dashboard and try it out!](https://1drv.ms/x/s!AsGPhe3EDTlvsU2IOl0BaBE429tl)
+[Click this link to to open the dashboard and try it out!](https://1drv.ms/x/s!AsGPhe3EDTlvsVCsPvtR1vEMx7k0)
 ![Screenshot (47)](https://user-images.githubusercontent.com/111446453/185663987-a6e1972c-3d92-423a-b3de-255456aac73d.png)
