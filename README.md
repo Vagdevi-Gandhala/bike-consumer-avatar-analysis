@@ -7,9 +7,10 @@ Based on the request that was made from the business we following user stories w
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/111446453/185663880-cb1039f6-d2c1-4e0c-9673-f7b7e5fea104.png)
 
-
+# Data Cleaning and Transformation
 
 # The Data Modelelling
+To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using Excel Pivot table and Pivot charts.
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/111446453/185730809-19b97991-76e0-4bcb-ad19-f9ad66624a30.png)
 
