@@ -4,11 +4,14 @@ Creating Dashboard to analyse the consumer avatar of a product (bike) using Exce
 # Business Request & User Stories
 The business request for this data analyst project was an executive sales report for sales managers. 
 Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
+
 ![Screenshot (48)](https://user-images.githubusercontent.com/111446453/185663880-cb1039f6-d2c1-4e0c-9673-f7b7e5fea104.png)
 
 
 
-# The Data Model
+# The Data Modelelling
+
+![Screenshot (49)](https://user-images.githubusercontent.com/111446453/185730809-19b97991-76e0-4bcb-ad19-f9ad66624a30.png)
 
 
 
